@@ -1,6 +1,6 @@
 <!-- HEADER: Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -33,10 +33,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dizzo-violeta">
+  <a href="https://www.linkedin.com/in/dizzo0607">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:dizzovioleta@gmail.com">
+  <a href="mailto:dizzo0607@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://portofoliodizzo.vercel.app/">
