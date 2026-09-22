@@ -33,7 +33,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dizzo0607">
+  <a href="https://linkedin.com/in/dizzo0607">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dizzo0607@gmail.com">
