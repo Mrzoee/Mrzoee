@@ -1,6 +1,6 @@
 <!-- HEADER: Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -41,8 +41,5 @@
   </a>
   <a href="https://portofoliodizzo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://figma.com">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </p>
