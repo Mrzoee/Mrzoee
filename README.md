@@ -1,6 +1,6 @@
 <!-- HEADER: Capsule Render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hi,%20I'm%20Dizzo%20Violeta&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=UI/UX%20Designer%20%26%20Front-End%20Developer&subtextSize=20" alt="Header Banner" />
 </p>
 
 <p align="center">
